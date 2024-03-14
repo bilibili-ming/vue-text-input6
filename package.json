@@ -1,8 +1,12 @@
 {
     "name": "vue-text-input6",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "A Vue text input UI component",
     "main": "src/js/main.js",
+	"repository": {
+    "type": "git",
+    "url": "https://github.com/bilibili-ming/vue-text-input6.git"
+  },
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1",
         "lint": "eslint --ext .js,.vue src/js/main.js",
